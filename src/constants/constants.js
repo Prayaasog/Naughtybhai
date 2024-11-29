@@ -170,8 +170,8 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://prayaas.eu",
-    live_link: "https://prayaas.eu",
+    source_code_link: "https://Anees/Naughty.eu",
+    live_link: "https://Anees/Naughty.eu",
   },
   {
     name: "Hayasaka",
@@ -215,8 +215,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://prayaas.eu",
-    live_link: "https://prayaas.eu",
+    source_code_link: "https://Anees/Naughty.eu",
+    live_link: "https://Anees/Naughty.eu",
   },
   {
     name: "Study Notion",
@@ -256,8 +256,8 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://prayaas.eu",
-    live_link: "https://prayaas.eu",
+    source_code_link: "https://Anees/Naughty.eu",
+    live_link: "https://Anees/Naughty.eu",
   },
   {
     name: "FlipKart Price Tracker",
@@ -282,8 +282,8 @@ const projects = [
       },
     ],
     image: tracker,
-    source_code_link: "https://prayaas.eu",
-    live_link: "https://prayaas.eu",
+    source_code_link: "https://Anees/Naughty.eu",
+    live_link: "https://Anees/Naughty.eu",
   },
   {
     name: "Social Sphere",
@@ -320,8 +320,8 @@ const projects = [
       },
     ],
     image: socialSphere,
-    source_code_link: "https://prayaas.eu",
-    live_link: "https://prayaas.eu",
+    source_code_link: "https://Anees/Naughty.eu",
+    live_link: "https://Anees/Naughty.eu",
   },
 ];
 
